@@ -1,6 +1,6 @@
 <?php
 
-namespace Orlyapps\NovaBelongsToDepend;
+namespace Iprieto\NovaBelongsToDepend;
 
 use Illuminate\Support\Str;
 use Laravel\Nova\Fields\FormatsRelatableDisplayValues;
