@@ -1,12 +1,12 @@
 <?php
 
-namespace Orlyapps\NovaBelongsToDepend\Http\Controllers;
+namespace Iprieto\NovaBelongsToDepend\Http\Controllers;
 
 use Illuminate\Support\HtmlString;
 use Illuminate\Http\Request;
 use Illuminate\Routing\Controller;
 use Laravel\Nova\Http\Requests\NovaRequest;
-use Orlyapps\NovaBelongsToDepend\NovaBelongsToDepend;
+use Iprieto\NovaBelongsToDepend\NovaBelongsToDepend;
 use Laravel\Nova\Panel;
 
 class FieldController extends Controller
